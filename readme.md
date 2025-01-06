@@ -1,1 +1,1 @@
-Learning-based Computing Framework for Geospatial data
+Learning-based Computing Framework for Geospatial data.
